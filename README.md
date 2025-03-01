@@ -6,7 +6,7 @@ Insert your Wifi SSID and Password before uploading code to ESP32.
 
 # Materials Used
 - ESP32-WROOM-32D
-- 128x64 0.96" SSD1306 I2C OLED Screen
+- 128x64 0.96" SSD1306 I2C OLED Display
 - 1x LED
 - 1x 330Ω Resistor
 
